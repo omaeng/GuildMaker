@@ -9,3 +9,13 @@ EditorBuildSettings:
     path: Assets/Resources/1. Scenes/Logo.unity
   - enabled: 1
     path: Assets/Resources/1. Scenes/Title.unity
+  - enabled: 1
+    path: Assets/Resources/1. Scenes/LobbyBG.unity
+  - enabled: 1
+    path: Assets/Resources/1. Scenes/LobbyCharacter.unity
+  - enabled: 1
+    path: Assets/Resources/1. Scenes/Facility.unity
+  - enabled: 1
+    path: Assets/Resources/1. Scenes/Quest.unity
+  - enabled: 1
+    path: Assets/Resources/1. Scenes/UI.unity
